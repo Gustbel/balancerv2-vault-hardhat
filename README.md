@@ -4,6 +4,9 @@
 
 Please, check that node v16.13.0 is installed (hardhat doesnt work with v17 right now) and hardhat is installed.
 
+```
+npm install
+```
 
 ## Compile
 
