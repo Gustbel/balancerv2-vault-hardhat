@@ -30,4 +30,8 @@ Address: 0xcacac0c929de862EE2251d92eac1106633D7a261
 
 ```
 npx hardhat run scripts/deploy.js  --network rinkeby
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 9f54e6a5533d44f6e5e1dadbf2ff58d633962680
